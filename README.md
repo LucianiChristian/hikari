@@ -39,16 +39,6 @@ Use the commit body to explain architectural reasoning and design decisions.
 
 *Coming soon - project is in early planning phase*
 
-## Project Structure
-
-```
-/src
-  /Hikari.Api/          # ASP.NET Core Web API
-  /Hikari.Web/          # React frontend
-/tests/                 # Test projects
-/docs/                  # Technical documentation
-```
-
 ---
 
 *This project is built in public. Follow along with the development process and architectural decisions through commit history and documentation.*
